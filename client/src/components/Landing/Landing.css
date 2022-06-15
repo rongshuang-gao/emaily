@@ -1,0 +1,33 @@
+.hero {
+  margin: 4rem auto;
+}
+
+.hero__cta {
+  margin: 20px 0;
+}
+
+.hero__image {
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 10px 10px black;
+}
+
+.email__header {
+  padding: 5px 1.5rem;
+  border-bottom: 1px solid black;
+}
+
+.email__content {
+  text-align: center;
+}
+
+.email__image {
+  display: block;
+  margin: auto;
+  width: 90%;
+  max-width: 250px;
+}
+
+.email__button {
+  margin: 25px 0;
+}

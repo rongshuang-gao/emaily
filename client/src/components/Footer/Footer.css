@@ -1,0 +1,9 @@
+.footer__link {
+  display: flex;
+  margin: 5px 0;
+}
+
+.footer__link img {
+  height: 1.5rem;
+  padding-right: 5px;
+}
